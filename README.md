@@ -7,3 +7,4 @@ The fact the stuff is small is proved by my recent researches in economy. 2500 i
 This time, unlike some other repositories, the stuff is done. You can also extend the rapidity of this program by adding the supercomputer repository I did (Open world scripting langage). Please choose a programming langage. In python, in order to have 2 servers communication, please use PyUV : https://github.com/saghul/pyuv
 
 For serializing / deserializing, you can use tensorflow. I didn't check the marshalling, nor ownership.
+It seems that it can be used to test crash in fighting games for example (Game design).
